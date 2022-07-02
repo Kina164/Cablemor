@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1, Matipoto [HD]
-http://144.22.32.157:8000/livestream/matipoto/index.m3u8
+https://cablemor.andremor.dev/matipoto/index.m3u8
 #EXTINF:-1, Matipoto (Señal de pruebas) [HD]
-http://144.22.32.157:8000/livestream/mp_sdp/index.m3u8
+https://cablemor.andremor.dev/mp_sdp/index.m3u8
 #EXTINF:-1, Telereducto [HD] 
-http://144.22.32.157:8000/livestream/canal8_reducto/index.m3u8
+https://cablemor.andremor.dev/canal8_reducto/index.m3u8
 #EXTINF:-1, Canal Nueve [HD]
-http://144.22.32.157:8000/livestream/canal9_la_teja/index.m3u8
+https://cablemor.andremor.dev/canal9_la_teja/index.m3u8
 #EXTINF:-1, Canal Nueve Plus [HD]
-http://144.22.32.157:8000/livestream/canal_nueve_plus/index.m3u8
+https://cablemor.andremor.dev/canal_nueve_plus/index.m3u8
 #EXTINF:-1, Canal 2 Curicó [HD]
-http://144.22.32.157:8000/livestream/canal2_curico/index.m3u8
+https://cablemor.andremor.dev/canal2_curico/index.m3u8
 #EXTINF:-1, Quepevisión [SD]
-http://144.22.32.157:8000/livestream/canal5_quepe/index.m3u8
+https://cablemor.andremor.dev/canal5_quepe/index.m3u8
 #EXTINF:-1, Canal 7 Temuco [HD]
-http://144.22.32.157:8000/livestream/canal7_temuco/index.m3u8
+https://cablemor.andremor.dev/canal7_temuco/index.m3u8
 #EXTINF:-1, Canal 12 Telesol [HD]
-http://144.22.32.157:8000/livestream/canal12_boca_del_rio/index.m3u8
+https://cablemor.andremor.dev/canal12_boca_del_rio/index.m3u8
 #EXTINF:-1, Canal 13 Matamoros [HD]
-http://144.22.32.157:8000/livestream/ian/index.m3u8
+https://cablemor.andremor.dev/ian/index.m3u8
 #EXTINF:-1, Canal 11 San Juan [SD]
-http://144.22.32.157:8000/livestream/canal11_san_juan/index.m3u8
+https://cablemor.andremor.dev/canal11_san_juan/index.m3u8
 #EXTINF:-1, Canal 6 General Villegas [SD]
-http://144.22.32.157:8000/livestream/canal6_general_villegas/index.m3u8
+https://cablemor.andremor.dev/canal6_general_villegas/index.m3u8
 #EXTINF:-1, Alpina Canal 2 [HD] 
-http://144.22.32.157:8000/livestream/alpina_canal_2/index.m3u8
+https://cablemor.andremor.dev/alpina_canal_2/index.m3u8
 #EXTINF:-1, TP1 Radio [97.1 FM]
-http://144.22.32.157:8000/livestream/tp1-radio/index.m3u8
+https://cablemor.andremor.dev/tp1-radio/index.m3u8
