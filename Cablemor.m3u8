@@ -3,17 +3,19 @@
 http://144.22.32.157:8000/livestream/matipoto/index.m3u8
 #EXTINF:-1, Matipoto (Señal de pruebas) [HD]
 http://144.22.32.157:8000/livestream/mp_sdp/index.m3u8
-#EXTINF:-1, Canal 8 Reducto [HD] 
+#EXTINF:-1, Telereducto [HD] 
 http://144.22.32.157:8000/livestream/canal8_reducto/index.m3u8
-#EXTINF:-1, Canal 9 La Teja [HD]
+#EXTINF:-1, Canal Nueve [HD]
 http://144.22.32.157:8000/livestream/canal9_la_teja/index.m3u8
+#EXTINF:-1, Canal Nueve Plus [HD]
+http://144.22.32.157:8000/livestream/canal_nueve_plus/index.m3u8
 #EXTINF:-1, Canal 2 Curicó [HD]
 http://144.22.32.157:8000/livestream/canal2_curico/index.m3u8
-#EXTINF:-1, Canal 5 Quepe (Quepevisión) [SD]
+#EXTINF:-1, Quepevisión [SD]
 http://144.22.32.157:8000/livestream/canal5_quepe/index.m3u8
 #EXTINF:-1, Canal 7 Temuco [HD]
 http://144.22.32.157:8000/livestream/canal7_temuco/index.m3u8
-#EXTINF:-1, Canal 12 Boca del Río (Telesol) [HD]
+#EXTINF:-1, Canal 12 Telesol [HD]
 http://144.22.32.157:8000/livestream/canal12_boca_del_rio/index.m3u8
 #EXTINF:-1, Canal 13 Matamoros [HD]
 http://144.22.32.157:8000/livestream/ian/index.m3u8
