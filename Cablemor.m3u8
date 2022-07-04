@@ -3,8 +3,6 @@
 https://cablemor.andremor.dev/matipoto/index.m3u8
 #EXTINF:-1, Matipoto (Señal de pruebas) [HD]
 https://cablemor.andremor.dev/mp_sdp/index.m3u8
-#EXTINF:-1, Telereducto [HD] 
-https://cablemor.andremor.dev/canal8_reducto/index.m3u8
 #EXTINF:-1, Canal Nueve [HD]
 https://cablemor.andremor.dev/canal9_la_teja/index.m3u8
 #EXTINF:-1, Canal Nueve Plus [HD]
