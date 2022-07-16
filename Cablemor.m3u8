@@ -3,10 +3,8 @@
 https://cablemor.andremor.dev/matipoto/index.m3u8
 #EXTINF:-1, Matipoto (Señal de pruebas) [HD]
 https://cablemor.andremor.dev/mp_sdp/index.m3u8
-#EXTINF:-1, Canal Nueve [HD]
+#EXTINF:-1, Terovisión [HD]
 https://cablemor.andremor.dev/canal9_la_teja/index.m3u8
-#EXTINF:-1, Canal Nueve Plus [HD]
-https://cablemor.andremor.dev/canal_nueve_plus/index.m3u8
 #EXTINF:-1, Canal 2 Curicó [HD]
 https://cablemor.andremor.dev/canal2_curico/index.m3u8
 #EXTINF:-1, Quepevisión [SD]
